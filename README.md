@@ -1,5 +1,7 @@
 # Make Change Project 
 
+## By Michael Holthouser
+
 First week project for Skill Distillery. 
 Demonstrates: 
 * Basic Java language skills. 
