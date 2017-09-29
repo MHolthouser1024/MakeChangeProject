@@ -1,6 +1,7 @@
 # Make Change Project 
 
 ## By Michael Holthouser
+### September 2017
 
 First week project for Skill Distillery. 
 Demonstrates: 
